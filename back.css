@@ -22,12 +22,17 @@ h1{
 }
 
 p{
+	font-family: 'Questrial';
+	
+
+	
+}
+.lusitano{
 	color: white;
 	font-family: 'Questrial';
 	font-size: 35px;
 	text-align: center;
 	padding-top: 0px;
-	
 }
 .logo img {
 	
@@ -110,8 +115,16 @@ h5{
 	font-family: 'Questrial';
 	color: #7B7D7D;
 	font-size: 28px;
+	
+
+}
+
+.cavalo_penso{
+	font-family: 'Questrial';
+	color: #7B7D7D;
+	font-size: 28px;
 	margin-left: 20px;
-	margin-top: 330px;
+	margin-top: 280px;
 
 }
 .penso{
@@ -126,14 +139,85 @@ h5{
 }
 
 .equitacao{
-	margin-top: 300px;
+	margin-top: 290px;
 	float: left;
 	margin-left: 390px;
 	margin-right: 30px;
-
+	padding-bottom: 0px;
 }
 
 
+.preparacao{
+	float: right;
+	margin-left: 0px;
+	margin-right: 300px;
+	margin-top: 310px;
+}
+
 .competicao{
+	float: left;
+	margin-right: 0px;
+	margin-top: 40px;
+}
+
+.texto_um{
+	font-family: 'Questrial';
+	font-size: 18px;
+}
+.texto_dois{
+	font-family: 'Questrial';
+	font-size: 18px;
+	color: #7B7D7D;
+	float: left;
+	padding-top: 0px;
+	margin-top: -30px;
+	margin-left: 10px;
+
+}
+
+.texto_tres{
+	font-family: 'Questrial';
+	font-size: 18px;
+	float: left;
+	color:#7B7D7D ;
+	margin-left: 400px;
+	margin-top: -50px;
+
+}
+h6{
+	font-family: 'Questrial';
+	color: #7B7D7D;
+	font-size: 28px;
+	float: right;
+	margin-right: 0px;
+	
+	}
+
+
+.ajuda{
+	float: left;
+	margin-bottom: 30px;
+}
+.ajuda_um{
+	margin-top: 400px;
+	margin-right: 350px;
+}
+.amiga{
+float: left;
+margin-bottom: 30px;
+}
+
+.amiga_um{
+	margin-top: 380px;
+	margin-right: 350px;
+
+}
+.fezada{
+float: left;
+}
+
+.fezada_um{
+	margin-top: 380px;
+	margin-right: 340px;
 
 }
