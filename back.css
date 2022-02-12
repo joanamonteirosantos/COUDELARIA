@@ -1,0 +1,139 @@
+body{
+	background-color: #E5E7E9;
+}
+
+
+.back {
+background-image: url(foto_coudelaria.jpg);
+width: 1200px;
+height: 800px;
+margin-top: 0px auto;
+
+
+}
+
+h1{
+	font-family: Questrial;
+	text-align: center;
+	font-size: 60px;
+	color:white;
+	padding-top:100px ;
+
+}
+
+p{
+	color: white;
+	font-family: 'Questrial';
+	font-size: 35px;
+	text-align: center;
+	padding-top: 0px;
+	
+}
+.logo img {
+	
+	padding-top: 30px;
+	margin-left:50px ;
+}
+.lista ul{
+	list-style-type: none;
+	font-family: 'Questrial',;
+	max-width: 500px;
+	font-weight: 400px;
+	
+
+}
+.lista ul li a{
+	color: #424949;
+	font-weight: 400;
+
+	list-style-type: none;
+	font-style: normal;
+	font-family: 'Questrial';
+	margin-top: 6px;
+	text-decoration: none;
+	margin-left:  0px;
+
+}
+
+
+h2{
+	font-family: 'Questrial';
+	color: #7B7D7D;
+	font-size: 28px;
+	margin-left: 20px;
+}
+h3{
+	font-family:'Questrial'; 
+	color: #424949;
+	font-size: 35px;
+	line-height: 1.4;
+	margin-left: 20px;
+
+}
+h4{
+	font-family: 'Questrial';
+	color: #7B7D7D;
+	letter-spacing: 2px;
+	line-height: 1.7;
+	margin-left: 20px;
+}
+
+
+img .logo_azul{
+	
+	float:right;
+	
+	}
+
+
+
+.um{
+	max-width:500px;
+	text-align: left;
+	float: left;
+	margin-left: 20px;
+	margin-right: 50px;
+}
+
+.dois{
+	margin-left: 20px;
+}
+
+
+.tres{
+	
+	margin-left: 20px;
+}
+
+
+h5{
+	font-family: 'Questrial';
+	color: #7B7D7D;
+	font-size: 28px;
+	margin-left: 20px;
+	margin-top: 330px;
+
+}
+.penso{
+	float: left;
+	margin-right: 20px;
+}
+
+
+.escola{ 
+	
+	margin-left: 0px;
+}
+
+.equitacao{
+	margin-top: 300px;
+	float: left;
+	margin-left: 390px;
+	margin-right: 30px;
+
+}
+
+
+.competicao{
+
+}
